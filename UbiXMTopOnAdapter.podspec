@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.weak_frameworks = 'AppTrackingTransparency', 'DeviceCheck'
   s.libraries = 'c++', 'resolv', 'z', 'sqlite3', 'bz2', 'xml2', 'iconv', 'c++abi'
   
-  s.dependency 'AnyThinkiOS' '6.3.21'
+  s.dependency 'AnyThinkiOS','6.3.21'
 
   
   # 脚本
