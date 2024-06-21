@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { 'zhugq' => 'guoqiang.zhu@ubixai.com' }
   s.source           = { :git => 'https://github.com/ubixai/UBiXMTopOnAdapter.git', :tag => s.version.to_s }
   s.ios.deployment_target = '12.0'
+  s.license = { }
 
   s.static_framework = true
 
@@ -18,6 +19,7 @@ Pod::Spec.new do |s|
   
  s.dependency 'AnyThinkiOS', '6.3.21'
  s.dependency 'UBiXMediationSDK', '2.4.3'
+ s.swift_version = '5.0'
 
    
 
