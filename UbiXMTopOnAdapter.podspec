@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UbiXMTopOnAdapter'
-  s.version          = '1.0.2'
+  s.version          = '6.3.21.0'
   s.summary          = 'UBiX聚合广告变现SDK ToponAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
  
   
  s.dependency 'AnyThinkiOS', '6.3.21'
- s.dependency 'UBiXMediationSDK', '2.4.3'
+ s.dependency 'UBiXMediationSDK', '2.5.0'
  s.swift_version = '5.0'
 
    
