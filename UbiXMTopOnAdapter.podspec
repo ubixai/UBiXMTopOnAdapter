@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UbiXMTopOnAdapter'
-  s.version          = '6.3.21.0'
+  s.version          = '6.3.21.1'
   s.summary          = 'UBiX聚合广告变现SDK ToponAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
